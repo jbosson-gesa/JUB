@@ -1,4 +1,3 @@
-# JUB
 # About Me:
 Just a beginner learning to code small apps.
 
